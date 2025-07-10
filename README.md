@@ -109,7 +109,6 @@ function arbitrateDispute(uint questionId, bool ruleInFavorOfAsker) external;
 - ✅ Frontend integration with Zama FHE SDK
 - ✅ DAO-based arbitration (instead of single C)
 - ✅ Question expiry and refund window
-- ✅ NFT reward instead of ERC20
 
 ---
 
@@ -120,5 +119,3 @@ function arbitrateDispute(uint questionId, bool ruleInFavorOfAsker) external;
 
 ---
 
-## 👨‍💻 Author
-Built by [YourName] using Zama FHEVM + Hardhat
